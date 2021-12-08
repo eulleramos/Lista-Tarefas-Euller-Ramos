@@ -1,0 +1,35 @@
+<html>
+<head>
+ <little> Lista de Tarefas - Euller Ramos <little>
+ </head>
+ <body>
+ 
+   <div class='content'>
+     
+     <div class=''row'>
+     
+         <div class=''col-12''>
+            <h1> Lista </h1>
+            <form>
+             <input type =''text'' name =''task''
+              id='task'/>
+             <input type =''button '' name='''''
+             value='AddTask' />
+            <form>
+            
+         <div>
+         
+   <div>
+   
+   <div class=''row''>
+       <div class=''col-12''>
+       
+          <div class=''to-do-list-box''>
+             
+             <ul>
+                 <l1>01/12 - colocar tarefas em dia  <button> X </button > </l1>
+                 <l1> 04/12 - estudar para as provas finais <l1>
+                 <l1> 08/12 e 09/12 - realizar provas finais <l1>
+                 <l1> 10/12 - ferias <l1>
+             </ul>
+ </html>
